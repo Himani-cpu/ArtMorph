@@ -40,20 +40,20 @@ ArtMorph is a clean and elegant Streamlit-based web app that applies **Neural St
 neural_style_transfer/
 │
 
-├── app.py # Main Streamlit app
+    ├── app.py # Main Streamlit app
 
-├── requirements.txt # Python dependencies
+    ├── requirements.txt # Python dependencies
 
-├── background.png # Background image
+    ├── background.png # Background image
 
-├── header.png # Top header image
+    ├── header.png # Top header image
 
-│
+    │
 
-└── images/
+    └── images/
 
-      ├── content/ # Folder for input/content images
+        ├── content/ # Folder for input/content images
 
-      └── style/ # Folder for style/artistic images
+        └── style/ # Folder for style/artistic images
 
 
