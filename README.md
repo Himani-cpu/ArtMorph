@@ -52,7 +52,7 @@ neural_style_transfer/
 
     └── images/
 
-        ├── 🗒 content/ # Folder for input/content images
+        ├── 🎁 content/ # Folder for input/content images
 
         └── 🪄 style/ # Folder for style/artistic images
 
@@ -61,9 +61,9 @@ neural_style_transfer/
 
 1. **Clone the repository**
 
-git clone https://github.com/your-username/artmorph.git
+git clone https://github.com/Himani-cpu/Neural-Style-Transfer.git
 
-cd artmorph
+cd Neural-Style-Transfer
 
 
 2. **Create virtual environment**
