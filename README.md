@@ -38,22 +38,58 @@ ArtMorph is a clean and elegant Streamlit-based web app that applies **Neural St
 ## 📁 Folder Structure
 
 neural_style_transfer/
-│
 
-    ├── app.py # Main Streamlit app
 
-    ├── requirements.txt # Python dependencies
+    ├── 🚀 app.py # Main Streamlit app
 
-    ├── background.png # Background image
+    ├── 📜 requirements.txt # Python dependencies
 
-    ├── header.png # Top header image
+    ├── 🧱 background.png # Background image
+
+    ├── 🔖 header.png # Top header image
 
     │
 
     └── images/
 
-        ├── content/ # Folder for input/content images
+        ├── 🗒 content/ # Folder for input/content images
 
-        └── style/ # Folder for style/artistic images
+        └── 🪄 style/ # Folder for style/artistic images
+
+
+## ⚙️ Installation & Run
+
+1. **Clone the repository**
+
+git clone https://github.com/your-username/artmorph.git
+
+cd artmorph
+
+
+2. **Create virtual environment**
+
+conda create -n nst-env python=3.10
+
+conda activate nst-env
+
+
+3. **Install dependencies**
+
+pip install -r requirements.txt
+
+
+4. **Run the app**
+
+streamlit run app.py
+
+
+## 🙋‍♀️ Created By
+
+Himani Joshi
+
+Made with ❤️ using Streamlit, TensorFlow, and a touch of creativity.
+
+© 2025 – ArtMorph
+
 
 
