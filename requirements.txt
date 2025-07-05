@@ -1,6 +1,6 @@
-streamlit==1.32.2
-tensorflow==2.13.0
-tensorflow-hub==0.13.0
-Pillow==9.5.0
-streamlit_lottie==0.0.5
-streamlit_image_comparison==0.0.4
+streamlit
+tensorflow
+tensorflow-hub
+Pillow
+streamlit-lottie
+streamlit-image-comparison
