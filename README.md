@@ -27,6 +27,8 @@ ArtMorph is a clean and elegant Streamlit-based web app that applies **Neural St
 
 ✅ Responsive & fast performance
 
+🪅 Live **style transfer** with smooth comparison slider
+
 
 
 ## 🚀 Demo
